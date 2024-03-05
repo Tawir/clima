@@ -1,3 +1,2 @@
-# clima
-Clima is a Flutter weather application designed to provide users with current weather information based on their location 
-it uses the gelocator pacjkage to get the crrent user location  and fetch the data from Open weather map Api  .
+#Clima
+Clima is a user-friendly Flutter weather application designed to provide users with accurate and up-to-date weather information tailored to their location. Leveraging the Geolocator package, Clima seamlessly retrieves the user's current location, ensuring personalized weather forecasts wherever they are. Through integration with the OpenWeatherMap API, Clima fetches comprehensive weather data, including current conditions, temperature, humidity, wind speed, and more.
